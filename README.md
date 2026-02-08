@@ -1,4 +1,6 @@
 # Skocko Game on STM32 Nucleo-L476RG
+![Skocko Game – Project Example](project-example.jpg)
+
 
 A hardware implementation of the classic **Skocko (Mastermind)** game on the **STM32 Nucleo-L476RG** board, featuring:
 
