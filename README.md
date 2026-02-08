@@ -10,21 +10,6 @@ A hardware implementation of the classic **Skocko (Mastermind)** game on the **S
 
 The project was initially implemented using **polling** as the microcontroller used was quite  fast for the project at hand, and later upgraded to **interrupt-driven** handling for buttons and ADC. The presented version is the pooling version.
 
----
-
-## Table of Contents
-
-- [Hardware Setup](#hardware-setup)
-- [Software Setup](#software-setup)
-- [Game Rules](#game-rules)
-- [Project Structure](#project-structure)
-- [Usage](#usage)
-- [Features](#features)
-- [Future Improvements](#future-improvements)
-- [License](#license)
-
----
-
 ## Hardware Setup
 
 - **STM32 Nucleo-L476RG** board
@@ -45,3 +30,4 @@ The project was initially implemented using **polling** as the microcontroller u
 2. Clone this repository:
    ```bash
    git clone https://github.com/<your-username>/<repo-name>.git
+3. install the needed drivers
