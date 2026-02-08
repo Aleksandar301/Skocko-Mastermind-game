@@ -8,7 +8,7 @@ A hardware implementation of the classic **Skocko (Mastermind)** game on the **S
 - **Random number generation** for secret combination
 - **ADC potentiometer input** for selecting digits
 
-The project was initially implemented using **polling** as the microcontroller used was quite was quite fast for the project at hand, and later upgraded to **interrupt-driven** handling for buttons and ADC.
+The project was initially implemented using **polling** as the microcontroller used was quite  fast for the project at hand, and later upgraded to **interrupt-driven** handling for buttons and ADC. The presented version is the pooling version.
 
 ---
 
